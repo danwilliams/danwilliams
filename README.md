@@ -1,6 +1,6 @@
 # Featured
 
-### [rustmark](https://github.com/danwilliams/rustmark)
+### [Rustmark](https://github.com/danwilliams/rustmark)
 
 Extensible web application for serving Markdown-based content
 
@@ -20,7 +20,7 @@ Extensible web application for serving Markdown-based content
 
 ---
 
-### [terracotta](https://github.com/danwilliams/terracotta)
+### [Terracotta](https://github.com/danwilliams/terracotta)
 
 Boilerplate webserver repository based on Axum
 
@@ -40,7 +40,7 @@ Boilerplate webserver repository based on Axum
 
 ---
 
-### [rubedo](https://github.com/danwilliams/rubedo)
+### [Rubedo](https://github.com/danwilliams/rubedo)
 
 A set of library crates that provide useful utilities, helpers, and other
 functionality for Rust projects
@@ -61,7 +61,7 @@ functionality for Rust projects
 
 ---
 
-### [isosphere](https://github.com/danwilliams/isosphere)
+### [Isosphere](https://github.com/danwilliams/isosphere)
 
 Library of ISO standard data types, helpers, and related utilities for Rust
 projects
@@ -82,7 +82,7 @@ projects
 
 ---
 
-### [numberwang](https://github.com/danwilliams/numberwang)
+### [Numberwang](https://github.com/danwilliams/numberwang)
 
 Rust library of custom number malarkey, including variable-bit-width integers
 
@@ -102,7 +102,7 @@ Rust library of custom number malarkey, including variable-bit-width integers
 
 ---
 
-### [patchify](https://github.com/danwilliams/patchify)
+### [Patchify](https://github.com/danwilliams/patchify)
 
 Rust library for automatic self-updating of applications
 
@@ -122,7 +122,7 @@ Rust library for automatic self-updating of applications
 
 ---
 
-### [sham](https://github.com/danwilliams/sham)
+### [Sham](https://github.com/danwilliams/sham)
 
 Mock implementations for Rust, for use in testing
 
@@ -142,7 +142,7 @@ Mock implementations for Rust, for use in testing
 
 ---
 
-### [weekdays](https://github.com/danwilliams/weekdays)
+### [Weekdays](https://github.com/danwilliams/weekdays)
 
 Rust type for days of the week bit-mapped in a single byte
 
@@ -162,12 +162,15 @@ Rust type for days of the week bit-mapped in a single byte
 
 ---
 
-### [boilerplate-multiplatform](https://github.com/danwilliams/boilerplate-multiplatform)
+### [Boilerplate multiplatform](https://github.com/danwilliams/boilerplate-multiplatform)
 
 Rust UniFFI library shared with multiple client platforms (MacOS, iOS, Android,
 web) plus web server
 
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-blue?style=flat&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-blue?style=flat&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-blue?style=flat&logo=android&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/danwilliams/boilerplate-multiplatform?style=flat&color=daa520)](https://github.com/danwilliams/boilerplate-multiplatform/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/danwilliams/boilerplate-multiplatform?style=flat&color=663399)](https://github.com/danwilliams/boilerplate-multiplatform/watchers)
 ![License](https://img.shields.io/github/license/danwilliams/boilerplate-multiplatform?style=flat)
