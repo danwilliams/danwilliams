@@ -14,7 +14,7 @@ Extensible web application for serving Markdown-based content
 ![Release](https://img.shields.io/github/v/release/danwilliams/rustmark?style=flat)
 [![Crate version](https://img.shields.io/crates/v/rustmark?style=flat)](https://crates.io/crates/rustmark)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/rustmark/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/rustmark/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/rustmark?style=flat)](https://docs.rs/crate/rustmark/latest)
+[![Docs](https://img.shields.io/docsrs/rustmark?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/rustmark/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/rustmark?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/rustmark?style=flat)
 
@@ -34,7 +34,7 @@ Boilerplate webserver repository based on Axum
 ![Release](https://img.shields.io/github/v/release/danwilliams/terracotta?style=flat)
 [![Crate version](https://img.shields.io/crates/v/terracotta?style=flat)](https://crates.io/crates/terracotta)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/terracotta/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/terracotta/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/terracotta?style=flat)](https://docs.rs/crate/terracotta/latest)
+[![Docs](https://img.shields.io/docsrs/terracotta?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/terracotta/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/terracotta?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/terracotta?style=flat)
 
@@ -55,7 +55,7 @@ functionality for Rust projects
 ![Release](https://img.shields.io/github/v/release/danwilliams/rubedo?style=flat)
 [![Crate version](https://img.shields.io/crates/v/rubedo?style=flat)](https://crates.io/crates/rubedo)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/rubedo/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/rubedo/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/rubedo?style=flat)](https://docs.rs/crate/rubedo/latest)
+[![Docs](https://img.shields.io/docsrs/rubedo?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/rubedo/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/rubedo?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/rubedo?style=flat)
 
@@ -76,7 +76,7 @@ projects
 ![Release](https://img.shields.io/github/v/release/danwilliams/isosphere?style=flat)
 [![Crate version](https://img.shields.io/crates/v/isosphere?style=flat)](https://crates.io/crates/isosphere)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/isosphere/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/isosphere/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/isosphere?style=flat)](https://docs.rs/crate/isosphere/latest)
+[![Docs](https://img.shields.io/docsrs/isosphere?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/isosphere/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/isosphere?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/isosphere?style=flat)
 
@@ -96,7 +96,7 @@ Rust library of custom number malarkey, including variable-bit-width integers
 ![Release](https://img.shields.io/github/v/release/danwilliams/numberwang?style=flat)
 [![Crate version](https://img.shields.io/crates/v/numberwang?style=flat)](https://crates.io/crates/numberwang)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/numberwang/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/numberwang/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/numberwang?style=flat)](https://docs.rs/crate/numberwang/latest)
+[![Docs](https://img.shields.io/docsrs/numberwang?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/numberwang/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/numberwang?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/numberwang?style=flat)
 
@@ -116,7 +116,7 @@ Rust library for automatic self-updating of applications
 ![Release](https://img.shields.io/github/v/release/danwilliams/patchify?style=flat)
 [![Crate version](https://img.shields.io/crates/v/patchify?style=flat)](https://crates.io/crates/patchify)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/patchify/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/patchify/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/patchify?style=flat)](https://docs.rs/crate/patchify/latest)
+[![Docs](https://img.shields.io/docsrs/patchify?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/patchify/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/patchify?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/patchify?style=flat)
 
@@ -136,7 +136,7 @@ Mock implementations for Rust, for use in testing
 ![Release](https://img.shields.io/github/v/release/danwilliams/sham?style=flat)
 [![Crate version](https://img.shields.io/crates/v/sham?style=flat)](https://crates.io/crates/sham)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/sham/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/sham/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/sham?style=flat)](https://docs.rs/crate/sham/latest)
+[![Docs](https://img.shields.io/docsrs/sham?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/sham/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/sham?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/sham?style=flat)
 
@@ -156,7 +156,7 @@ Rust type for days of the week bit-mapped in a single byte
 ![Release](https://img.shields.io/github/v/release/danwilliams/weekdays?style=flat)
 [![Crate version](https://img.shields.io/crates/v/weekdays?style=flat)](https://crates.io/crates/weekdays)
 [![CI](https://img.shields.io/github/actions/workflow/status/danwilliams/weekdays/ci.yml?style=flat&logo=github&logoColor=white&label=build%2Ftest)](https://github.com/danwilliams/weekdays/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/docsrs/weekdays?style=flat)](https://docs.rs/crate/weekdays/latest)
+[![Docs](https://img.shields.io/docsrs/weekdays?style=flat&logo=docs.rs&logoColor=white)](https://docs.rs/crate/weekdays/latest)
 ![Release date](https://img.shields.io/github/release-date/danwilliams/weekdays?style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/danwilliams/weekdays?style=flat)
 
